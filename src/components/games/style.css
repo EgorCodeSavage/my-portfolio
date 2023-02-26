@@ -1,0 +1,36 @@
+ul {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+    margin: 20px 0;
+}
+.item {
+    text-align: center;
+    background-color: #bbc0c7;
+    border-radius: 5%;
+    padding: 0 5px;
+    margin: 0 20px;
+    box-shadow: -8px 5px 28px 4px rgba(38, 38, 45, 1);
+
+    margin-bottom: 40px;
+}
+h3 {
+    font-size: 20px;
+    font-weight: 600;
+    text-decoration: none;
+    color: black;
+    margin: 5px 0;
+}
+.imgGames {
+    border-radius: 5%;
+    max-height: 260px;
+    max-width: 250px;
+    
+}
+p {
+    margin: 5px 0;
+    font-weight: 600;
+    text-decoration: none;
+    color: black;
+}

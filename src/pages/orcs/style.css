@@ -1,0 +1,70 @@
+/*      ORCS TITLE      */
+.orcs_inner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 20px 0;
+
+    border-bottom: 1px solid grey;
+}
+.orcs_img {
+    height: 55px;
+    width: 55px;
+}
+.orcs_title {
+    font-size: 35px;
+    font-weight: 600;
+}
+.orcs_title span {
+    font-size: 25px;
+}
+.orcs_button {
+    background-color: #e0a628;
+    padding: 5px 10px;
+    border-radius: 25px;
+    
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    font-weight: 700;
+    box-shadow: 0px 7px 0px -2px rgba(125, 108, 17, 1);
+}
+.orcs_inner button:hover {
+    transform: translateY(-2px);
+}
+.orcs_inner button:active {
+    transform: translateY(2px);
+    box-shadow: none;
+}
+/*      ORCS STATS      */
+.orcs_stats_title {
+    margin: 10px 0;
+    font-size: 20px;
+    font-weight: 500;
+}
+.orcs_stats_inner {
+    display: flex;
+    flex-wrap: wrap;
+}
+.orcs_stats_item {
+    background-color: #c9c8c7;
+    border-radius: 15px;
+
+    height: 200px;
+    width: 170px;
+
+    margin: 10px 25px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+
+    box-shadow: -22px 11px 19px 0px rgba(37, 37, 37, 1);
+}
+.orcs_stats_item img {
+    height: 55px;
+    width: 55px;
+}

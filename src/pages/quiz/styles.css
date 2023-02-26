@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;0,1000;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900;1,1000&display=swap');
+
+.quiz_main {
+    margin: 0;
+    font-family: 'Nunito', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: #6a5be2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.quiz_app {
+    width: 500px;
+    border-radius: 30px;
+    padding: 40px;
+    background-color: #fff;
+    position: relative;
+}
+.quiz_app .result {
+    text-align: center;
+}
+.quiz_app .result button {
+    font-weight: bold;
+    font-family: 'Nunito', sans-serif;
+    border-radius: 30px;
+    border: 0;
+    padding: 15px 30px;
+    font-size: 20px;
+    background-color: #f00067;
+    color: #fff;
+    margin-top: 20px;
+    cursor: pointer;
+}
+.quiz_app .result h2 {
+    margin-bottom: 0;
+    color: black;
+    font-weight: 600;
+    margin-top: 10px;
+}
+.quiz_app .result img {
+    width: 150px;
+}
+.quiz_app .progress {
+    height: 10px;
+    border-radius: 30px;
+    background-color: #e8e8e8;
+    margin-bottom: 25px;
+}
+.quiz_app .progress__inner {
+    height: 100%;
+    border-radius: 30px;
+    width: 80%;
+    background: #12e730;
+    transition: all 0.3s ease-in-out;
+    background: linear-gradient(90deg, rgba(18, 231, 48, 1) 0%, rgba(0, 212, 255, 1) 100%);
+}
+.quiz_app:before, .quiz_app:after {
+    content: '';
+    display: block;
+    height: 50px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.quiz_app:before {
+    width: 95%;
+    bottom: -10px;
+    background-color: rgba(255, 255, 255, 0.8);
+    z-index: 0;
+}
+.quiz_app:after {
+    width: 90%;
+    bottom: -20px;
+    background-color: rgba(255, 255, 255, 0.3);
+    z-index: 1;
+}
+.quiz_app h1 {
+    margin: 0;
+    font-size: 25px;
+    font-weight: 800;
+    color: black;
+}
+.quiz_app ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+}
+.quiz_app ul li {
+    padding: 15px;
+    border: 2px solid rgba(0, 0, 0, 0.1);
+    border-radius: 15px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    transition: all 0.1s ease-in-out;
+    font-weight: 600;
+    color: black;
+}
+.quiz_app ul li:hover {
+    border: 2px solid rgba(0, 0, 0, 0.3);
+}
