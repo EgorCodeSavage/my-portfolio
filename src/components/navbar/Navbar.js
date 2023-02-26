@@ -17,7 +17,7 @@ function Navbar () {
         <nav className="nav">
             <div className="container">
                 <div class="nav-row">
-                    <NavLink to="/" className="logo">
+                    <NavLink to="/my-portfolio" className="logo">
                         <strong>Rieznik</strong> portfolio
                     </NavLink>
                     
@@ -26,7 +26,7 @@ function Navbar () {
                     <ul className="nav-list">
                         
                         <li className="nav-list__item">
-                            <NavLink to="/" className={({isActive}) => isActive ? activeLink : notActiveLink}>
+                            <NavLink to="/my-portfolio" className={({isActive}) => isActive ? activeLink : notActiveLink}>
                                 Home
                             </NavLink>
                         </li>
