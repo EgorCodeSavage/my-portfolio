@@ -1,9 +1,8 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.bc671a48.css",
-    "main.js": "/my-portfolio/static/js/main.5e785906.js",
+    "main.js": "/my-portfolio/static/js/main.d32457dc.js",
     "static/media/AFV.png": "/my-portfolio/static/media/AFV.940fedbe0fd9fd65d824.png",
-    "static/media/CV_Yehor_UI_Developer.docx": "/my-portfolio/static/media/CV_Yehor_UI_Developer.ff4961f500cec50508de.docx",
     "static/media/02.jpg": "/my-portfolio/static/media/02.b95a6199fb4ad9e33cce.jpg",
     "static/media/01.jpg": "/my-portfolio/static/media/01.aaee10c83f2a7b21f065.jpg",
     "static/media/01-big.jpg": "/my-portfolio/static/media/01-big.6f067ac7f49bd3e961df.jpg",
@@ -12,6 +11,7 @@
     "static/media/plane.png": "/my-portfolio/static/media/plane.52e6d6a9d1b33766211b.png",
     "static/media/vic.png": "/my-portfolio/static/media/vic.64e30f0d830bdfa65b13.png",
     "static/media/mlrs.png": "/my-portfolio/static/media/mlrs.6be34b2c54b01dc40367.png",
+    "static/media/CV_Yehor_UI_Developer.pdf": "/my-portfolio/static/media/CV_Yehor_UI_Developer.b78835d42d73dd4db4b5.pdf",
     "static/media/03-big.jpg": "/my-portfolio/static/media/03-big.8f4bc4f6d34c0b821c2a.jpg",
     "static/media/03.jpg": "/my-portfolio/static/media/03.8f4bc4f6d34c0b821c2a.jpg",
     "static/media/arta.png": "/my-portfolio/static/media/arta.bcbd0e72e67db1ca7cd1.png",
@@ -42,10 +42,10 @@
     "static/media/minus.svg": "/my-portfolio/static/media/minus.494f644a0286985edebe0fb3f79390a0.svg",
     "index.html": "/my-portfolio/index.html",
     "main.bc671a48.css.map": "/my-portfolio/static/css/main.bc671a48.css.map",
-    "main.5e785906.js.map": "/my-portfolio/static/js/main.5e785906.js.map"
+    "main.d32457dc.js.map": "/my-portfolio/static/js/main.d32457dc.js.map"
   },
   "entrypoints": [
     "static/css/main.bc671a48.css",
-    "static/js/main.5e785906.js"
+    "static/js/main.d32457dc.js"
   ]
 }
