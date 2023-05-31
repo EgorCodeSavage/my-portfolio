@@ -32,8 +32,8 @@ const projects = [
         
     },
     {
-        title: "Fake Dating app",
-        skills: 'React Native',
+        title: "Chat-Chat",
+        skills: 'HTML, CSS, JS, React',
         img: project04,
         imgBig : project04Big,
     },
