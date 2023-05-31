@@ -1,7 +1,7 @@
 import React from "react";
 
 import "./style.css"
-import CV from "./../../helpers/CV_Yehor_UI_Developer.docx"
+import CV from "./../../helpers/CV_Yehor_UI_Developer.pdf"
 
 const Header = () => {
     return ( 
