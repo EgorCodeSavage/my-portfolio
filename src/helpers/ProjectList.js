@@ -33,19 +33,19 @@ const projects = [
     },
     {
         title: "Chat-Chat",
-        skills: 'HTML, CSS, JS, React',
+        skills: 'HTML, CSS, JS, React, FireBase',
         img: project04,
         imgBig : project04Big,
     },
     {
-        title: "Fake Landing",
-        skills: 'HTML, SCSS, JS',
+        title: "Weather App",
+        skills: 'HTML, SCSS, JS, React, React Redux, API',
         img: project05,
         imgBig : project05Big,
     },
     {
-        title: "Fake Gaming comunity",
-        skills: 'React, PHP, MySQL',
+        title: "Malva Juwelry",
+        skills: 'HTML, CSS, JS, React, FireBase',
         img: project06,
         imgBig : project06Big,
     }
