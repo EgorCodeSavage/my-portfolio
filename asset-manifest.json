@@ -1,31 +1,31 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.bc671a48.css",
-    "main.js": "/my-portfolio/static/js/main.3080920e.js",
+    "main.js": "/my-portfolio/static/js/main.5e785906.js",
     "static/media/AFV.png": "/my-portfolio/static/media/AFV.940fedbe0fd9fd65d824.png",
     "static/media/CV_Yehor_UI_Developer.docx": "/my-portfolio/static/media/CV_Yehor_UI_Developer.ff4961f500cec50508de.docx",
-    "static/media/05-big.jpg": "/my-portfolio/static/media/05-big.f315645c87f1dfe5c2c6.jpg",
     "static/media/02.jpg": "/my-portfolio/static/media/02.b95a6199fb4ad9e33cce.jpg",
     "static/media/01.jpg": "/my-portfolio/static/media/01.aaee10c83f2a7b21f065.jpg",
     "static/media/01-big.jpg": "/my-portfolio/static/media/01-big.6f067ac7f49bd3e961df.jpg",
     "static/media/02-big.jpg": "/my-portfolio/static/media/02-big.a608fde066b40c1d782a.jpg",
     "static/media/airdef.png": "/my-portfolio/static/media/airdef.ce0c8052ece086f552fd.png",
-    "static/media/06-big.jpg": "/my-portfolio/static/media/06-big.51b90ae43fdfcf0ab077.jpg",
     "static/media/plane.png": "/my-portfolio/static/media/plane.52e6d6a9d1b33766211b.png",
     "static/media/vic.png": "/my-portfolio/static/media/vic.64e30f0d830bdfa65b13.png",
     "static/media/mlrs.png": "/my-portfolio/static/media/mlrs.6be34b2c54b01dc40367.png",
     "static/media/03-big.jpg": "/my-portfolio/static/media/03-big.8f4bc4f6d34c0b821c2a.jpg",
     "static/media/03.jpg": "/my-portfolio/static/media/03.8f4bc4f6d34c0b821c2a.jpg",
-    "static/media/05.jpg": "/my-portfolio/static/media/05.497e1d12eb46a0b52271.jpg",
     "static/media/arta.png": "/my-portfolio/static/media/arta.bcbd0e72e67db1ca7cd1.png",
     "static/media/helicopters.png": "/my-portfolio/static/media/helicopters.74548c6a46352ea904c7.png",
+    "static/media/06.jpg": "/my-portfolio/static/media/06.55af74ef7c3322046eae.jpg",
     "static/media/04-big.jpg": "/my-portfolio/static/media/04-big.e6762a27c98d619157d2.jpg",
     "static/media/tank.png": "/my-portfolio/static/media/tank.815c1284c923c24910ed.png",
-    "static/media/06.jpg": "/my-portfolio/static/media/06.86ff2b3c4326d053ac65.jpg",
     "static/media/users.png": "/my-portfolio/static/media/users.3178eb82886376aeca27.png",
+    "static/media/06-big.jpg": "/my-portfolio/static/media/06-big.d13ca5bc321bf609e306.jpg",
+    "static/media/05-big.jpg": "/my-portfolio/static/media/05-big.677a6f653db675bcd132.jpg",
     "static/media/orcs.png": "/my-portfolio/static/media/orcs.f0d16b14cff497caccdb.png",
     "static/media/header-bg.png": "/my-portfolio/static/media/header-bg.5bf82a058f892ab7f237.png",
     "static/media/zombie.png": "/my-portfolio/static/media/zombie.15358012c41c9fb97356.png",
+    "static/media/05.jpg": "/my-portfolio/static/media/05.99c2eb2d0a9a84df5cfd.jpg",
     "static/media/soldiers.png": "/my-portfolio/static/media/soldiers.081b98dd9cbbba33e0ac.png",
     "static/media/04.jpg": "/my-portfolio/static/media/04.cc60a05f558423aa1829.jpg",
     "static/media/warships_cutters.png": "/my-portfolio/static/media/warships_cutters.6220959ebfdaba28b858.png",
@@ -42,10 +42,10 @@
     "static/media/minus.svg": "/my-portfolio/static/media/minus.494f644a0286985edebe0fb3f79390a0.svg",
     "index.html": "/my-portfolio/index.html",
     "main.bc671a48.css.map": "/my-portfolio/static/css/main.bc671a48.css.map",
-    "main.3080920e.js.map": "/my-portfolio/static/js/main.3080920e.js.map"
+    "main.5e785906.js.map": "/my-portfolio/static/js/main.5e785906.js.map"
   },
   "entrypoints": [
     "static/css/main.bc671a48.css",
-    "static/js/main.3080920e.js"
+    "static/js/main.5e785906.js"
   ]
 }
